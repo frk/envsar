@@ -9,8 +9,8 @@ import (
 )
 
 const (
-	leftDelim  = "<"
-	rightDelim = ">"
+	leftDelim  = "{{"
+	rightDelim = "}}"
 )
 
 func init() {
